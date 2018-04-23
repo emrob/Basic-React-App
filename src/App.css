@@ -2,13 +2,21 @@ h2 {
   text-align: center;
   font-family: cursive;
   font-size: 40px;
+  color: white;
 }
 
 body {
   background-color: skyblue;
+  background-image: url(https://moziru.com/images/curtain-clipart-stage-background-15.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+  background-attachment: fixed;
 }
 
 .movie-box {
   font-family: monospace;
+  font-size: 15px;
+  font-weight: bold;
   text-align: center;
+  color: white;
 }
