@@ -1,0 +1,14 @@
+h2 {
+  text-align: center;
+  font-family: cursive;
+  font-size: 40px;
+}
+
+body {
+  background-color: skyblue;
+}
+
+.movie-box {
+  font-family: monospace;
+  text-align: center;
+}
